@@ -7,4 +7,4 @@
 
 ## License
 
-[Creative Commons by-nc-nd](http://creativecommons.org/licenses/by-nc-nd/3.0/de/)
+[Creative Commons by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0/de/)
