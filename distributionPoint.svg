@@ -49,8 +49,8 @@
        color-interpolation-filters="sRGB"
        id="filter3927">
       <feGaussianBlur
-         stdDeviation="0.66504295"
-         id="feGaussianBlur3929" />
+         id="feGaussianBlur3929"
+         stdDeviation="0.66504295" />
     </filter>
     <linearGradient
        x1="-73.296104"
@@ -136,7 +136,7 @@
        style="fill:#128f2a;fill-opacity:1;stroke:#128f2a;stroke-width:11.83026886;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
   </g>
   <g
-     transform="matrix(-0.2454009,0.90214756,-0.90214756,-0.2454009,42.76397,99.174504)"
+     transform="matrix(-0.66359719,0.65858225,-0.65858225,-0.66359719,5.7679738,94.068069)"
      id="g4022">
     <rect
        width="4.069149"
@@ -157,7 +157,7 @@
        style="fill:#128f2a;fill-opacity:1;stroke:#128f2a;stroke-width:11.83026886;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
   </g>
   <g
-     transform="matrix(0.2454009,-0.90214756,0.90214756,0.2454009,22.219345,-45.79936)"
+     transform="matrix(-0.23855037,-0.90398315,0.90398315,-0.23855037,-11.492611,-31.345054)"
      id="g4032">
     <rect
        width="4.069149"
