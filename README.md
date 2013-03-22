@@ -5,9 +5,16 @@
 - [Inkscape](http://inkscape.org/)
 - [Scribus](http://scribus.net/)
 - [Gimp](http://www.gimp.org/)
+- [Krita](http://www.krita.org/)
 - [ImageMagic](http://www.imagemagick.org)
 - [LittleCMS](http://www.littlecms.com/)
-- [Krita](http://www.krita.org/)
+
+## Colors
+
+- Black:       `r0   g0   b0`   / `#000000` / `c0   m0   y0   k100`
+- Gray:        `r77  g77  b77`  / `#4d4d4d` / `c0   m0   y0   k70`
+- Light Green: `r82  g132 b28`  / `#52841c` / `c62  m0   y100 k36`
+- Dark Green:  `r22  g83  b23`  / `#165317` / `c74  m0   y100 k66`
 
 ### ICC-Profiles
 
