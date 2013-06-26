@@ -31,6 +31,11 @@ otherwise you have to use an RGB profile:
 
     convert  rgb.jpg -profile /path/to/source/rgb/profile.icm -profile /path/to/target/cmyk/profile.icc cmyk.jpg
 
+## Fonts
+
+- The Logo uses the [Ubuntu Font](http://font.ubuntu.com/)
+  ([ZIP-Download](http://font.ubuntu.com/download/ubuntu-font-family-0.80.zip))
+
 ## License
 
 [Creative Commons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/de/)
