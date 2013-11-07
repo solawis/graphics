@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="32"
+   height="32"
+   id="svg4155"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="/home/mk/dev/solawiGraphics/favicon.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1155"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="15.169568"
+     inkscape:cx="37.913394"
+     inkscape:cy="8.7092894"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4155" />
+  <title
+     id="title3001">SoLaWiS Logo</title>
+  <defs
+     id="defs4157" />
+  <metadata
+     id="metadata4160">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SoLaWiS Logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Markus Kohlhase</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 3.4143346,31.877375 C 18.802205,31.877375 24.75131,24.338843 29.917197,0.31295444 9.5659834,5.9655871 -3.0689999,15.941517 3.4143346,31.877375 z"
+     id="path11910"
+     style="fill:#567d2d;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0" />
+</svg>
