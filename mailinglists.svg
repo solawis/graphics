@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="612.31329"
+   height="411.02136"
+   id="svg3000"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="mailinglists.svg">
+  <defs
+     id="defs3002">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3861"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3858"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="435.43107"
+     inkscape:cy="83.621884"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1278"
+     inkscape:window-height="1419"
+     inkscape:window-x="2560"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3005">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Markus Kohlhase</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.5181908,-481.5233)">
+    <g
+       id="g4856"
+       transform="translate(80.250462,-6.999979)">
+      <rect
+         ry="3.7396679"
+         rx="4.9226742"
+         y="488.75925"
+         x="151.37979"
+         height="61.912285"
+         width="164.08916"
+         id="rect3008"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.47194096;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3010"
+         y="526.07489"
+         x="190.12006"
+         style="font-size:23.98573303px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="526.07489"
+           x="190.12006"
+           id="tspan3012"
+           sodipodi:role="line">news@</tspan></text>
+    </g>
+    <g
+       id="g4861"
+       transform="translate(82.388944,-31.000008)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-2.1384827,161.95822)"
+         id="use3014"
+         xlink:href="#rect3008"
+         y="0"
+         x="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:23.98573303px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="201.54381"
+         y="688.70068"
+         id="text3016"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3018"
+           x="201.54381"
+           y="688.70068">wir@</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 313.67483,555.26594 0,52.85714"
+       id="path3084"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4848"
+       d="M 268.05118,696.00392 C 229.33782,763.05743 124.08958,711.08218 92.77485,817.28314"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 363.65013,696.35055 c 1.51523,40.4061 128.44783,54.60915 168.85393,121.7843"
+       id="path4850"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 313.67483,696.35926 c 1.01015,42.93148 39.90102,46.81254 51.51778,120.0486"
+       id="path4854"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g4898"
+       transform="translate(-11.42857,-37)">
+      <g
+         transform="translate(0,0.32644875)"
+         id="g4866">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(-132.19706,378.3107)"
+           id="use3026"
+           xlink:href="#rect3008"
+           y="0"
+           x="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:23.98573303px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="63.035183"
+           y="904.27435"
+           id="text3030"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3032"
+             x="63.035183"
+             y="904.27435">vp-1@</tspan></text>
+      </g>
+      <g
+         transform="translate(22.161162,-0.45080125)"
+         id="g4871">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect3008"
+           id="use3028"
+           transform="translate(116.55012,379.08795)"
+           width="744.09448"
+           height="1052.3622" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3034"
+           y="904.75293"
+           x="311.80579"
+           style="font-size:23.98573303px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="904.75293"
+             x="311.80579"
+             id="tspan3036"
+             sodipodi:role="line">vp-n@</tspan></text>
+      </g>
+      <g
+         transform="translate(7.9999133,-0.55935125)"
+         id="g4876">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect3008"
+           id="use3038"
+           transform="translate(307.55521,379.1965)"
+           width="744.09448"
+           height="1052.3622" />
+        <text
+           xml:space="preserve"
+           style="font-size:23.98573303px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="473.89447"
+           y="905.93896"
+           id="text3040"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3042"
+             x="473.89447"
+             y="905.93896">foerderer@</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4896"
+         d="m 197.79062,898.35254 77.78175,0"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 32;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4891"
+       transform="translate(-189.55768,85.327523)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3008"
+         id="use3020"
+         transform="translate(493.68423,-92.327502)"
+         width="744.09448"
+         height="1052.3622" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3022"
+         y="434.41495"
+         x="679.45337"
+         style="font-size:23.98573303px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="434.41495"
+           x="679.45337"
+           id="tspan3024"
+           sodipodi:role="line">intern@</tspan></text>
+    </g>
+    <g
+       id="g3025"
+       transform="translate(-25.71429,0)">
+      <g
+         transform="translate(-515.28219,-191.95425)"
+         id="g4881">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect3008"
+           id="use3044"
+           transform="translate(397.37085,184.95427)"
+           width="744.09448"
+           height="1052.3622" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3046"
+           y="710.91791"
+           x="589.73956"
+           style="font-size:23.98573303px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="710.91791"
+             x="589.73956"
+             id="tspan3048"
+             sodipodi:role="line">wg-1@</tspan></text>
+      </g>
+      <g
+         transform="translate(-793.89907,-54.402038)"
+         id="g4886">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(675.98773,185.36025)"
+           id="use3050"
+           xlink:href="#rect3008"
+           y="0"
+           x="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:23.98573303px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="868.37988"
+           y="711.02521"
+           id="text3052"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3054"
+             x="868.37988"
+             y="711.02521">wg-n@</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4896-9"
+         d="m 115.51303,561.62768 0,40.13365"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999999, 31.9999999;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g3051"
+       transform="translate(0,-19.020908)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(304.12655,149.97912)"
+         id="use3042"
+         xlink:href="#rect3008"
+         y="0"
+         x="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:23.98573303px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="463.16351"
+         y="676.31165"
+         id="text3044"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3046"
+           x="463.16351"
+           y="676.31165">kistenpost@</tspan></text>
+    </g>
+  </g>
+</svg>
